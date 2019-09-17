@@ -3,7 +3,7 @@ spring:
         active:
         - dev
         
-- - -
+---
 
 spring:
     applciation:
@@ -11,7 +11,7 @@ spring:
     profiles: dev
     
     
-- - - 
+--- 
 
 
 spring:
